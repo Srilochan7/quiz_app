@@ -26,9 +26,11 @@ To run this app locally, follow these steps:
     ```
 
 ## Screenshots
-"C:\Users\kalak\OneDrive\Pictures\Saved Pictures\homepagequiz.jpg"
-"C:\Users\kalak\OneDrive\Pictures\Saved Pictures\quizpagequiz.jpg"
-"C:\Users\kalak\OneDrive\Pictures\Saved Pictures\outpagequiz.jpg"
+![homepagequiz](https://github.com/Srilochan7/quiz_app/assets/142315222/6d2f6bcf-3a86-4ec8-8ee6-37d03c3fbd1b)  
+![quizpagequiz](https://github.com/Srilochan7/quiz_app/assets/142315222/045e6598-594f-41eb-b068-6698484704bc)
+![outpagequiz](https://github.com/Srilochan7/quiz_app/assets/142315222/16351a69-974b-4b61-bc9e-df9997e16f33)
+
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
